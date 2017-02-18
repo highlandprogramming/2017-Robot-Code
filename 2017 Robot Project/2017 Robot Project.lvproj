@@ -131,8 +131,11 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
+		<Item Name="Autonomous Mode.ctl" Type="VI" URL="../Autonomous Mode.ctl"/>
 		<Item Name="Cross Baseline.vi" Type="VI" URL="../Cross Baseline.vi"/>
+		<Item Name="Dump balls.vi" Type="VI" URL="../../../../LabVIEW Data/Robot-Code-2016/2016 Stronghold/Dump balls.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
+		<Item Name="Wait with error.vi" Type="VI" URL="../Wait with error.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
